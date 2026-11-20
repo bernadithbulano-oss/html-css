@@ -7,6 +7,6 @@ Index.html
     <title></title>
 </head>
 <body>
-<img src="profilepic.jpg" alt="Profile Picture">
+<img src="/Users/johnneibeth/Desktop/profile pic.jpg" alt="Profile Picture" class="profile-pic">
 </body>
-</html>
+</html
